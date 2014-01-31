@@ -2,4 +2,5 @@
 
 ### Installation
 
-    git clone 
+    git clone https://github.com/andreisoriga/vim-config.git ~/.vim
+    ln -s ~/.vim/vimrc ~/.vimrc
