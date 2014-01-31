@@ -7,6 +7,6 @@
 
 ### Plugins
 
-For all thing to be good the following plugins need to be installed: `emmet-vim`, `tcomment_vim`, `unite.vim`, `vim-easymotion`, `vim-less`, `vim-surround`.
+For all thing to be good the following plugins need to be installed: `emmet-vim`, `tcomment_vim`, `unite.vim`, `vim-easymotion`, `vim-less`, `vim-surround` in `bundle` directory.
 
 On top of that the plugin `powerline` must be configured and installed.
